@@ -1,0 +1,305 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "приветствую"
+      },
+      {
+        "intent": "greet",
+        "text": "привет"
+      },
+      {
+        "intent": "greet",
+        "text": "здорова"
+      },
+      {
+        "intent": "greet",
+        "text": "здравствуй"
+      },
+      {
+        "intent": "greet",
+        "text": "рад знакомству"
+      },
+      {
+        "intent": "greet",
+        "text": "приятно познакомиться"
+      },
+      {
+        "intent": "greet",
+        "text": "как тебя зовут"
+      },
+      {
+        "intent": "help",
+        "text": "нужна помощь"
+      },
+      {
+        "intent": "help",
+        "text": "ты можешь помочь"
+      },
+      {
+        "intent": "help",
+        "text": "ты можешь мне помочь"
+      },
+      {
+        "intent": "help",
+        "text": "нужна твоя момощь"
+      },
+      {
+        "intent": "help",
+        "text": "помоги мне"
+      },
+      {
+        "intent": "help",
+        "text": "подскажи пожалуйста"
+      },
+      {
+        "intent": "help",
+        "text": "ты не мог бы помочь кое с чем"
+      },
+      {
+        "intent": "help",
+        "text": "помоги пожалуйста"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "найди комнату"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "найди свободную комнату"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "найди свободную аудиторию"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "помоги найти свободную комнату"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "нужна свободная комната"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "нужна свободная аудитория"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "найди свободную аудиторию"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "покажи свободную аудиторию"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "свободная аудитория"
+      },
+      {
+        "intent": "find_rooms",
+        "text": "где мне позаниматься"
+      },
+      {
+        "intent": "shadule",
+        "text": "расписание"
+      },
+      {
+        "intent": "shadule",
+        "text": "покажи расписание"
+      },
+      {
+        "intent": "shadule",
+        "text": "пришли расписание"
+      },
+      {
+        "intent": "shadule",
+        "text": "покажи расписание"
+      },
+      {
+        "intent": "shadule",
+        "text": "расскажи расписание"
+      },
+      {
+        "intent": "shadule",
+        "text": "куда мне идти"
+      },
+      {
+        "intent": "shadule",
+        "text": "какая сейчас пара"
+      },
+      {
+        "intent": "shadule",
+        "text": "где сейчас пара"
+      },
+      {
+        "intent": "shadule",
+        "text": "какое у меня расписание"
+      },
+      {
+        "intent": "shadule",
+        "text": "где у меня занитие"
+      },
+      {
+        "intent": "shadule",
+        "text": "какое расписание у"
+      },
+      {
+        "intent": "shadule",
+        "text": "где сейчас?"
+      },
+      {
+        "intent": "shadule",
+        "text": "где сейчас находится?"
+      },
+      {
+        "intent": "shadule",
+        "text": "какая следующая пара?"
+      },
+      {
+        "intent": "shadule",
+        "text": "куда нам идти"
+      },
+      {
+        "intent": "shadule",
+        "text": "где у меня сегодня пара"
+      },
+      {
+        "intent": "shadule",
+        "text": "где следующая пара"
+      },
+      {
+        "intent": "shadule",
+        "text": "какая у меня следующая пара"
+      },
+      {
+        "intent": "shadule",
+        "text": "что следующее"
+      },
+      {
+        "intent": "shadule",
+        "text": "дай мне расписание на завтра"
+      },
+      {
+        "intent": "shadule",
+        "text": "напиши расписание на сегодня"
+      },
+      {
+        "intent": "shadule",
+        "text": "какое расписание на завтра"
+      },
+      {
+        "intent": "thankyou",
+        "text": "спасибо"
+      },
+      {
+        "intent": "thankyou",
+        "text": "большое спасибо"
+      },
+      {
+        "intent": "thankyou",
+        "text": "спасибо за помощь"
+      },
+      {
+        "intent": "thankyou",
+        "text": "ты очень помог"
+      },
+      {
+        "intent": "thankyou",
+        "text": "без тебя я бы не справился"
+      },
+      {
+        "intent": "thankyou",
+        "text": "огромное спасибо"
+      },
+      {
+        "intent": "thankyou",
+        "text": "спс"
+      },
+      {
+        "intent": "thankyou",
+        "text": "спасибки"
+      },
+      {
+        "intent": "thankyou",
+        "text": "ты мне нравишься"
+      },
+      {
+        "intent": "thankyou",
+        "text": "без тебя мне крышка"
+      },
+      {
+        "intent": "thankyou",
+        "text": "благодарю"
+      },
+      {
+        "intent": "thankyou",
+        "text": "благодарю тебя"
+      },
+      {
+        "intent": "thankyou",
+        "text": "молодец малыш"
+      },
+      {
+        "intent": "thankyou",
+        "text": "продолжай также"
+      },
+      {
+        "intent": "thankyou",
+        "text": "продолжай в том же духе"
+      },
+      {
+        "intent": "thankyou",
+        "text": "молодец, продолжай также"
+      },
+      {
+        "intent": "thankyou",
+        "text": "молодчик"
+      },
+      {
+        "intent": "goodbye",
+        "text": "пока"
+      },
+      {
+        "intent": "goodbye",
+        "text": "до свидания"
+      },
+      {
+        "intent": "goodbye",
+        "text": "счастливо"
+      },
+      {
+        "intent": "goodbye",
+        "text": "ещё увидимся"
+      },
+      {
+        "intent": "goodbye",
+        "text": "увидимся"
+      },
+      {
+        "intent": "goodbye",
+        "text": "до скорого"
+      },
+      {
+        "intent": "goodbye",
+        "text": "хорошего дня"
+      },
+      {
+        "intent": "goodbye",
+        "text": "удачи"
+      },
+      {
+        "intent": "goodbye",
+        "text": "удачи тебе"
+      },
+      {
+        "intent": "goodbye",
+        "text": "пока, дружище"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
